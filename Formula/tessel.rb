@@ -4,8 +4,8 @@
 class Tessel < Formula
   desc "Small compiled language for native apps, with the UI written in it"
   homepage "https://tessel-lang.syncster.dev"
-  url "https://github.com/alexiusacademia/tessel/releases/download/v0.18.0/tessel-v0.18.0-macos-arm64.tar.gz"
-  sha256 "954c1141e9d851c57e8dc1e5dd323028294b0bd48a34ab2b81e2345c1c035ab1"
+  url "https://github.com/alexiusacademia/tessel/releases/download/v0.19.0/tessel-v0.19.0-macos-arm64.tar.gz"
+  sha256 "8d7b465001ad5fa929284de6568a7ff1b5ac8c3653e940eb01f6f69959cbc1fc"
   license "MIT"
 
   depends_on arch: :arm64
